@@ -1,1 +1,1 @@
-
+![Bird image](bird.jpg)
