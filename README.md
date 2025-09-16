@@ -1,1 +1,1 @@
-![Bird image](bird3.png)
+![Bird image](birds.png)
