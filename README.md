@@ -1,1 +1,1 @@
-![Bird image](birds2.png)
+![Banner](github_banner.png)
